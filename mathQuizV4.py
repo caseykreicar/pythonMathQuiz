@@ -17,7 +17,7 @@ numberOfCorrectAnswers = 0
 i = 0
 #Initial for loop to set parameters so that the loop will run 5 times
 for i in range (5):
-    #Generate two single digit integers
+    #Generate two integers
     numberOne = random.randint(0,50)
     numberTwo = random.randint(0,50)
     #Variable i will cumulatively add 1 once each turn/iteration of the loop is executed
@@ -48,7 +48,7 @@ numberOfCorrectAnswers = numberOfCorrectAnswers
 i = 0
 #Initial for loop to set parameters so that the loop will run 5 times
 for i in range (5):
-    #Generate two single digit integers
+    #Generate two integers
     numberOne = random.randint(0,50)
     numberTwo = random.randint(0,50)
     #Variable i will cumulatively add 1 once each turn/iteration of the loop is executed
@@ -79,7 +79,7 @@ numberOfCorrectAnswers = numberOfCorrectAnswers
 i = 0
 #Initial for loop to set parameters so that the loop will run 5 times
 for i in range (5):
-    #Generate two single digit integers
+    #Generate two integers
     numberOne = random.randint(0,12)
     numberTwo = random.randint(0,12)
     #Variable i will cumulatively add 1 once each turn/iteration of the loop is executed
@@ -110,7 +110,7 @@ numberOfCorrectAnswers = numberOfCorrectAnswers
 i = 0
 #Initial for loop to set parameters so that the loop will run 5 times
 for i in range (5):
-    #Generate two single digit integers
+    #Generate two integers
     numberOne = random.randint(1,12)
     numberTwo = random.randint(1,144)
     #Variable i will cumulatively add 1 once each turn/iteration of the loop is executed
